@@ -150,7 +150,9 @@ p.sub-title {
 #contact-container form .form-group button {
     width: 200px;
     height: 60px;
-    color:  #FFC300;
+    color: #FFC300  ;
+    background-color: black;
+
     cursor: pointer;
     text-transform: uppercase;
     border-radius: 5px;

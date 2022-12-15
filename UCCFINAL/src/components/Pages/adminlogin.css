@@ -20,9 +20,9 @@ h4 {
     font-size: 3rem;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.6);
 }
-#contact-container1 {
-    width: 1200px;
-    max-height: 1200px;
+#contact-container2 {
+    width: 600px;
+    max-height: 500px;
     border-radius: 15px;
     overflow: hidden;
     padding: 10px;
@@ -31,32 +31,32 @@ h4 {
     backdrop-filter: blur(15px);
     border: 1px solid rgbd(255, 255, 255, 0.7);
     box-shadow: 0 0 10px #FFC300;
-    margin-left: 85px;
+    margin-left: 400px;
     background-color: black;
      
 }
-#contact-container1 form {
+#contact-container2 form {
     padding: 20px;
     width: 100%;
 }
-#contact-container1 form .col1 {
+#contact-container2 form .col2 {
     display: flex;
     width: 100%;
     flex: 0 0 100%;
 }
-#contact-container1 form .form-group1 {
+#contact-container2 form .form-group2 {
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
     flex: 0 1 100%;
     padding-right: 40px;
 }
-#contact-container1 form .form-group1 label {
+#contact-container2 form .form-group2 label {
     font-size: 0.9rem;
     color: rgba(255, 255, 255, .6);
     margin-bottom: 1rem;
 }
-#contact-container1 form .form-group1 input[type="text"], #contact-container1 form .form-group1 input[type="tel"], #contact-container1 form .form-group1 input[type="email"], #contact-container1 form .form-group1 textarea {
+#contact-container2 form .form-group2 input[type="text"],#contact-container2 form .form-group2 input[type="password"] {
     border: none;
     cursor: pointer;
     border-bottom: 2px solid rgba(255, 255, 255, .4);
@@ -68,25 +68,25 @@ h4 {
     transition: all 0.3s ease-in-out;
     margin-bottom: 2rem;
 }
-#contact-container1 form .form-group1 input[type="text"]:focus, #contact-container1 form .form-group1 input[type="tel"]:focus, #contact-container1 form .form-group1 input[type="email"]:focus, #contact-container1 form .form-group1 textarea:focus {
+#contact-container2 form .form-group2 input[type="text"]:focus,#contact-container2 form .form-group2 input[type="password"]:focus {
     border: none;
     outline: none;
     border-bottom: 2px solid #05f7ff;
     
 }
-#contact-container1 form .form-group1:nth-child(2) {
+#contact-container2 form .form-group2:nth-child(2) {
     padding-right: 0;
 }
-#contact-container1 form .form-group1.textarea {
+#contact-container2 form .form-group2.textarea {
     padding: 0;
 }
-#contact-container1 form .form-group.solo1 {
+#contact-container2 form .form-group.solo2 {
     padding: 0;
 }
-#contact-container1 form .form-group1.right {
+#contact-container2 form .form-group2.right {
     align-items: flex-end;
 }
-#contact-container1 form .form-group1 button {
+#contact-container2 form .form-group2 button {
     width: 200px;
     height: 60px;
     color:  #FFC300;

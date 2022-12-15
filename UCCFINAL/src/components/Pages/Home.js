@@ -123,7 +123,7 @@ options={{
                 
            
             </div>
-            <p>UCC CLUB |<a href="https://cbit.ac.in " title="W3.CSS " target="_blank " class="w3-hover-text-green ">CBIT</a></p>
+            <p>UCC CLUB |<a href="https://cbit.ac.in " title="CBIT-UCC" target="_blank " class="w3-hover-text-green ">CBIT</a></p>
               
         </footer>
 
